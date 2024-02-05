@@ -1,5 +1,16 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# NFC
+
+react-native-nfc-manager is a library for React Native that provides NFC (Near Field Communication) functionality for both iOS and Android platforms. It allows React Native developers to interact with NFC-enabled devices, read NFC tags, and perform various NFC-related tasks within their mobile applications.
+
+##  Install the react-native-nfc-manager library
+
+```bash
+npm install react-native-nfc-manager
+npx pod-install # for iOS projects
+```
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
