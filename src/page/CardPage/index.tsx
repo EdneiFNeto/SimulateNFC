@@ -115,6 +115,8 @@ function CardPage(): React.JSX.Element {
 
       {status === StatusPayment.SUCCESS_PAYMENT && (
         <>
+          <TextInfo>Payment is successfull</TextInfo>
+
           <LottieView
             source={require('../../resources/ic_success.json')}
             style={{width: '100%', height: 300}}
