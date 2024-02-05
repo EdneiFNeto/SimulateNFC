@@ -97,7 +97,7 @@ function CardPage(): React.JSX.Element {
           />
 
           <Button onPress={resume}>
-            <TextInfoButton>Cancelar</TextInfoButton>
+            <TextInfoButton>Cancel</TextInfoButton>
           </Button>
         </>
       )}
