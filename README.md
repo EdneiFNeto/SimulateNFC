@@ -1,3 +1,15 @@
+# NFC
+
+If you want to work with NFC (Near Field Communication) in a React Native application, you can use the react-native-nfc-manager library. This library provides a set of APIs to interact with NFC functionalities on both Android and iOS platforms. Here are the steps to use react-native-nfc-manager in your React Native project:
+
+```bash
+# using npm
+npm install react-native-nfc-manager
+
+# OR using Yarn
+yarn ADD react-native-nfc-manager
+```
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
